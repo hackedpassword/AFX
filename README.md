@@ -5,7 +5,7 @@ Currently sporting some base textures.
 
 Doesn't seem to work atm as a mod. :/ Not with perm audio/visual either. Hmm!
 
-Tiles here look like:
+Tiles here look like this, but transparencies don't really render in the browser:
 
 ![](https://raw.githubusercontent.com/hackedpassword/AFX/main/Images.Tileset/TileSets/FantasyHex/Tiles/Coast.png)
 ![](https://raw.githubusercontent.com/hackedpassword/AFX/main/Images.Tileset/TileSets/FantasyHex/Tiles/Lakes.png)
