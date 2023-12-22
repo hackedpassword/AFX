@@ -7,7 +7,7 @@ Intention is to eventually update map [Tranquility](https://github.com/hackedpas
 
 Currently sporting some base textures. 
 
-Modder help needed: Doesn't seem to work atm as a mod. :/ Not with perm audio/visual either. Hmm!
+Modder help needed: Doesn't seem to work atm as a mod. :/ Not with perm audio/visual either. Hmm! Post something in [Discussions](https://github.com/hackedpassword/AFX/discussions) above if you have some insight. Thanks!
 
 ## AFX contents
 
