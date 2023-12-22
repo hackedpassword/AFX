@@ -3,9 +3,11 @@ A few QoL additions to [Alpha Frontier](https://github.com/carriontrooper/Alpha-
 
 Intention is to eventually update map [Tranquility](https://github.com/hackedpassword/Nextgen-Maps/tree/main/maps).
 
-![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/AFX/Screenshot%202023-12-22%20001633.png)
+Tranquility w/ AFX on:
+![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/AFX/Screenshot_20231222_005303.jpg) 
 
-Currently sporting some base textures. 
+Bare terrain view:
+![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/AFX/Screenshot%202023-12-22%20001633.png)
 
 Modder help needed: Doesn't seem to work atm as a mod. :/ Not with perm audio/visual either. Hmm! Post something in [Discussions](https://github.com/hackedpassword/AFX/discussions) above if you have some insight. Thanks!
 
