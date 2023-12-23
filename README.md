@@ -4,10 +4,7 @@ A few QoL additions to [Alpha Frontier](https://github.com/carriontrooper/Alpha-
 Intention is to eventually update map [Tranquility](https://github.com/hackedpassword/Nextgen-Maps/tree/main/maps).
 
 Tranquility w/ AFX on:
-![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/AFX/Screenshot_20231222_005303.jpg) 
-
-Bare terrain view:
-![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/AFX/Screenshot%202023-12-22%20001633.png)
+![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/AFX/Screenshot%202023-12-23%20153711.png) 
 
 ## AFX contents
 
@@ -24,5 +21,3 @@ Bare terrain view:
 What you see here is transparency in water tiles, grass/plains overdraw, 256px texture quality. Plains wraps perfectly, grasslands wrap nicely, mycelium looks lively. Looking good.
 
 Tundra and snow remain as unfinished base tiles, tbd.
-
-![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/main/Images/AFX/Screenshot%202023-12-23%20012241.png)
